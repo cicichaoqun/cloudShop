@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/index",
+    "pages/counter/index",
+    "pages/uiDemo/home/index",
+    "pages/uiDemo/button/index",
+    "pages/uiDemo/list/index",
+    "pages/uiDemo/loadmore/index",
+    "pages/uiDemo/icon/index",
+    "pages/uiDemo/flex/index",
+    "pages/uiDemo/panel/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
